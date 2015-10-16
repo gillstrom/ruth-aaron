@@ -1,6 +1,6 @@
 {
   "name": "ruth-aaron",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if two consecutive integers is a Ruth-Aron pair.",
   "license": "MIT",
   "repository": "gillstrom/ruth-aaron",
