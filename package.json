@@ -1,0 +1,44 @@
+{
+  "name": "ruth-aaron",
+  "version": "0.0.0",
+  "description": "Check if two consecutive integers is a Ruth-Aron pair.",
+  "license": "MIT",
+  "repository": "gillstrom/ruth-aaron",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "aaron",
+    "check",
+    "factor",
+    "integer",
+    "math",
+    "mathematics",
+    "number",
+    "pair",
+    "prime",
+    "ruth",
+    "ruth-aaron"
+  ],
+  "dependencies": {
+    "array-uniq": "^1.0.2",
+    "math-sum": "^1.0.0",
+    "number-is-integer": "^1.0.0",
+    "quick-primefactors": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
